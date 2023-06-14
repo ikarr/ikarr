@@ -3,4 +3,4 @@
 
 #### **Стек:** Windows, bash, C++17, MS Visual Studio, Git
 
-✉️ E-mail: ikarrus56@yandex.ru
+✉️ Telegram: @KaravIgor
